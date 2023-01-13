@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, c++
 - 🌱 I’m currently learning python, c++
 - 💞️ I’m looking to collaborate on computer vision, and machine learning.
-- 📫 How to reach me lilgoat991@gmail.com
+- 📫 How to reach me abukardjama1@gmail.com
 
 <!---
 Abukar-1000/Abukar-1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
