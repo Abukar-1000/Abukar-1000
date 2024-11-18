@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Abukar-1000
+- [Heres my personal page](https://abukar.net/)
 - 👀 I’m interested in Python, c++
 - 🌱 I’m currently learning python, c++
 - 💞️ I’m looking to collaborate on computer vision, and machine learning.
